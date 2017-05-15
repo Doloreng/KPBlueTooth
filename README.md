@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #iOS蓝牙通讯模块文档说明
 code中有三个文件夹：lib和bluetooth,lib是封装的蓝牙通信，bluetooth是demo。
 
@@ -14,3 +15,8 @@ _DeviceListVC_ 搜索、展示设备列表
 _ServicesViewController_ 搜索、展示服务列表
 _CharacteristicsVC_ 搜索、展示特性列表的类
 
+=======
+# KPBlueTooth
+蓝牙设备连接相关
+# lib中有库文件
+>>>>>>> 28686b6801f5057f1b2d78bb8b216b3bfb4eec32
