@@ -1,4 +1,4 @@
-#iOS蓝牙通讯模块文档说明
+## iOS蓝牙通讯模块文档说明
 code中有三个文件夹：lib和bluetooth,lib是封装的蓝牙通信，bluetooth是demo。
 
 -------
